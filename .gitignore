@@ -1,0 +1,7 @@
+install.sh
+__pycache__/
+*.pyc
+build
+dist
+result*.txt
+venv
