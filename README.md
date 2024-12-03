@@ -115,5 +115,9 @@ Each time a search is performed, the results are saved in a `result.txt` file in
 
 These methods and tools are for educational purposes only, so that you have a better understanding of how to protect against similar vulnerabilities. You must ensure that you do not attempt any exploit-type activity without the explicit permission of the owner of the machine, system or application. Failure to obtain permission risks breaking the law.
 
+## Author
+
+Markus-Ka
+
 
 
